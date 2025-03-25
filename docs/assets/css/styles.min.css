@@ -127,7 +127,7 @@
   --type-height: 1.4;
   --type-numeric: oldstyle-nums proportional-nums;
   --color-particles-text: var(--oc-gray-1);
-  --color-particles-background: #e32d6a; }
+  --color-particles-background: #000000; }
 
 html,
 html[data-theme="light"] {
